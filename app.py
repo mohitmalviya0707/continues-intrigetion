@@ -17,3 +17,5 @@ st.write(f"The square of {n} is: {square}")
 st.write(f"The cube of {n} is: {cube}")
 st.write(f"The fifth power of {n} is: {fifth_power}")    
 
+
+poilpoilliopl
